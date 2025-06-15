@@ -1,1 +1,1 @@
-# US labor statistics by industry & state, from 2017 to 2020
+# Employement and Wage Insights Across Key U.S. Industries
