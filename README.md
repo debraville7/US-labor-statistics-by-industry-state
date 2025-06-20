@@ -23,7 +23,9 @@ Workbook and Worksheet Protection – to ensure data integrity while enabling sa
 
 # Results
 ![Image](https://github.com/user-attachments/assets/e9953588-95d2-4cd9-bffe-4a33fddce812)
+
 ![Image](https://github.com/user-attachments/assets/3a778686-fe9d-41d9-b6b1-455a5e84d5a4)
+
 ![Image](https://github.com/user-attachments/assets/d8bf3192-9194-4c87-a87a-0a4f3ba235c3)
 
 # Actionable Insights
