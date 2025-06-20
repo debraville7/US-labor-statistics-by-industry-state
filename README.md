@@ -12,13 +12,16 @@ This research report presents key findings from a custom Excel dashboard analyzi
 
 
 # Methodology
-The dashboard was developed using a structured Excel-based approach to analyze employment and salary data across U.S. industries. Key dimensions included Year, Industry, and State, while measures focused on Establishments, Employees, and Average Annual Wage. The following methods and tools were applied:
-Statistical and Lookup Formulas – to calculate trends and retrieve specific data points efficiently.
-Custom Chart Insertion and Formatting – to visually represent data in a clear, engaging manner.
-Dynamic Series Highlighting – to emphasize changes across industries or years interactively.
-New Data Creation Using Data Types – to enrich the dataset with structured fields.
-Form Controls – to allow users to filter and explore the dashboard by year, industry, or state.
-Workbook and Worksheet Protection – to ensure data integrity while enabling safe user interaction.
+The dashboard was developed using a structured Excel-based approach to analyze employment and salary data across U.S. industries. Key dimensions included Year, Industry, and State, while measures focused on Establishments, Employees, and Average Annual Wage. 
+
+#### The following methods and tools were applied:
+
+- Statistical and Lookup Formulas – to calculate trends and retrieve specific data points efficiently.
+- Custom Chart Insertion and Formatting – to visually represent data in a clear, engaging manner.
+- Dynamic Series Highlighting – to emphasize changes across industries or years interactively.
+- New Data Creation Using Data Types – to enrich the dataset with structured fields.
+- Form Controls – to allow users to filter and explore the dashboard by year, industry, or state.
+- Workbook and Worksheet Protection – to ensure data integrity while enabling safe user interaction.
 
 
 # Results
