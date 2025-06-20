@@ -32,11 +32,13 @@ The dashboard was developed using a structured Excel-based approach to analyze e
 ![Image](https://github.com/user-attachments/assets/d8bf3192-9194-4c87-a87a-0a4f3ba235c3)
 
 # Actionable Insights
-## What is the analysis from the U.S. labor statistics dashboard for high school students that are interested in studying Information?
+##### What is the analysis from the U.S. labor statistics dashboard for high school students that are interested in studying Information?
 Information industry seems to be one of the best paid industries with an average salary of 94k a year. Although it doesn't look like there is a huge job market, about 2%. The wage increases significantly lately though. Even though the number of employees did fall from 2019 to 2020.
-What will be the best place to go to college to get a job with a very good salary as a high school student that has been guided to study Information?
+
+##### What will be the best place to go to college to get a job with a very good salary as a high school student that has been guided to study Information?
 Looking at our Map by average wages, Washington has the highest average wage. By employee per capita, Washington also has the highest job opportunities.
-The dashboard seems to be doing its job properly helping students to navigate better paying career paths across key U.S industries.
+
+Overall, the dashboard seems to be doing its job properly helping students to navigate better paying career paths across key U.S industries.
 
 # Conclusion
 The analysis of U.S. labor statistics highlights the Information industry as one of the highest-paying sectors, with an average annual wage of $94,000. Despite representing only about 2% of the overall job market and experiencing a dip in employment from 2019 to 2020, recent wage growth suggests strong earning potential. For high school students guided toward a career in Information, Washington State stands out as the best place to pursue college, offering both the highest average wages and the most job opportunities per capita. Overall, the dashboard effectively supports career planning by helping students identify high-paying and promising industries across the U.S.
