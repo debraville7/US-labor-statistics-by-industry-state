@@ -42,5 +42,8 @@ Looking at our Map by average wages, Washington has the highest average wage. By
 
 Overall, the dashboard seems to be doing its job properly helping students to navigate better paying career paths across key U.S industries.
 
+[US_Labor_Statistics_Dynamic_Dashboard.xlsx](https://github.com/user-attachments/files/20846750/US_Labor_Statistics_Dynamic_Dashboard.xlsx)
+
+
 # Conclusion
 The analysis of U.S. labor statistics highlights the Information industry as one of the highest-paying sectors, with an average annual wage of $94,000. Despite representing only about 2% of the overall job market and experiencing a dip in employment from 2019 to 2020, recent wage growth suggests strong earning potential. For high school students guided toward a career in Information, Washington State stands out as the best place to pursue college, offering both the highest average wages and the most job opportunities per capita. Overall, the dashboard effectively supports career planning by helping students identify high-paying and promising industries across the U.S.
