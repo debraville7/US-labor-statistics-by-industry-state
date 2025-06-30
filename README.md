@@ -10,7 +10,7 @@ This US labor statistics data with annual wage and employee per capita as key pe
 
 
 # Problem Statement
-This research report addresses the question of how wage and employment trends vary by industry and state over-time in the United States. Using a custom-built Excel dashboard, the analysis identifies key shifts in employment and average wages across major sectors to support internal workforce planning at Maven Careers and provide data-driven guidance to high school seniors exploring future career paths.
+This US labor statistics data addresses the question of how wage and employment trends vary by industry and state over-time in the United States. Using a custom-built Excel dashboard, the analysis identifies key shifts in employment and average wages across major sectors to support internal workforce planning at Maven Careers and provide data-driven guidance to high school seniors exploring future career paths.
 
 
 # Methodology
