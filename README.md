@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# Employement and Wage Insights Across Key U.S. Industries
-=======
 # Project Title: US labor statistics by industry & state, from 2017 to 2020
 
 
@@ -50,4 +47,3 @@ Overall, the dashboard seems to be doing its job properly helping students to na
 
 # Conclusion
 The analysis of U.S. labor statistics highlights the Information industry as one of the highest-paying sectors, with an average annual wage of $94,000. Despite representing only about 2% of the overall job market and experiencing a dip in employment from 2019 to 2020, recent wage growth suggests strong earning potential. For high school students guided toward a career in Information, Washington State stands out as the best place to pursue college, offering both the highest average wages and the most job opportunities per capita. Overall, the dashboard effectively supports career planning by helping students identify high-paying and promising industries across the U.S.
->>>>>>> 2a4eacd6af81995fc3ecf035abe3033a62952762
